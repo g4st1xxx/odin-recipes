@@ -1,2 +1,5 @@
 # odin-recipes
-My first html project
+Mi primer proyecto de html
+Sinceramente, no le puse mucho empeño
+
+
